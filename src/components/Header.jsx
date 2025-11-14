@@ -77,7 +77,7 @@ const Nav = styled.nav`
 `;
 
 const NavLink = styled(Link)`
-  color: white;
+  color: blue;
   text-decoration: none;
   font-weight: 500;
   transition: color 0.2s ease;
